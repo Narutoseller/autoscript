@@ -1,0 +1,2 @@
+# autoscript
+Selamay mencuba
